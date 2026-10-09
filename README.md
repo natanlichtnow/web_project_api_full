@@ -6,10 +6,10 @@
 
 O front-end é uma SPA em React responsável pela interface, autenticação (telas de cadastro/login) e navegação. O back-end é uma API REST em Node.js/Express com MongoDB, responsável por autenticação via JWT, validação de dados e regras de autorização (por exemplo, impedir que um usuário edite o perfil ou apague o cartão de outra pessoa).
 
-> ⚠️ **Preencha antes de entregar:** substitua os itens abaixo pelos dados reais do seu projeto.
+> Aplicação publicada com HTTPS nos seguintes endereços:
 
-- **URL do aplicativo:** `https://SEU-DOMINIO.students.nomoreparties.sbs`
-- **URL da API (back-end):** `https://api.SEU-DOMINIO.students.nomoreparties.sbs`
+- **URL do aplicativo:** [https://around-natan.chickenkiller.com](https://around-natan.chickenkiller.com)
+- **URL da API (back-end):** [https://api-around-natan.chickenkiller.com](https://api-around-natan.chickenkiller.com)
 - **Capturas de tela / GIFs:** adicione aqui imagens mostrando as telas de login, cadastro, feed de cartões e edição de perfil.
 - **Vídeo de demonstração:** adicione aqui o link do vídeo mostrando o projeto em funcionamento.
 
