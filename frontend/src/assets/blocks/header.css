@@ -1,0 +1,47 @@
+.header {
+  min-height: 120px;
+  font-family: "Inter", Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+.header__logo {
+  width: 173px;
+  height: 33px;
+  object-fit: contain;
+}
+
+.header__logout-button {
+  color: #a0a0a0;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  transition: color 0.2s ease;
+}
+
+.header__logout-button:hover {
+  color: #fff;
+}
+
+@media screen and (max-width: 544px) {
+  .header {
+    min-height: 85px;
+  }
+
+  .header__logo {
+    width: 126px;
+    height: 24px;
+    margin: 0 0 0 7px;
+  }
+
+  .header__logout-button {
+    font-size: 16px;
+  }
+}

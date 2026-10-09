@@ -1,0 +1,12 @@
+@import url("./assets/vendor/normalize.css");
+@import url("./assets/vendor/fonts.css");
+
+@import url("./assets/blocks/page.css");
+@import url("./assets/blocks/header.css");
+@import url("./assets/blocks/content.css");
+@import url("./assets/blocks/footer.css");
+@import url("./assets/blocks/profile.css");
+@import url("./assets/blocks/cards.css");
+@import url("./assets/blocks/card.css");
+@import url("./assets/blocks/popup.css");
+@import url("./assets/blocks/auth.css");
